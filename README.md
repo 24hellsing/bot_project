@@ -13,6 +13,6 @@ By adding Sicae to a server or using its commands, you agree to both.
 
 Questions, bug reports, or data requests? Join the Discord server: https://discord.gg/sicae
 
-## Contributing
+## Something wrong?
 
-Found a typo or something that looks wrong? Open an issue or a pull request. For anything bigger, talk to us on Discord first.
+Found a typo or something that looks wrong in these documents? Tell us in the support server: https://discord.gg/sicae
