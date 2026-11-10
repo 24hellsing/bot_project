@@ -1,6 +1,6 @@
 # Terms of Service
 
-**Last updated:** November 2, 2026
+**Last updated:** November 11, 2026
 
 These Terms of Service ("Terms") govern your use of the Sicae Discord bot (the "Bot") and its related support server (together, the "Service"), provided by Sicae ("we", "us", "our"). By adding the Bot to a server or using its commands, you agree to these Terms. If you do not agree, do not use the Service.
 
@@ -14,9 +14,9 @@ The Bot operates on Discord. You must follow [Discord's Terms of Service](https:
 
 ## 3. Using the Bot
 
-- The Bot offers embed and webhook message builders, server tag rewards, welcome, goodbye and boost messages, auto roles, VoiceMaster temporary voice channels, an autoresponder, automatic reactions, info commands, and a per-server bot profile.
+- The Bot offers embed and webhook message builders, buttons, select menus and message layouts, server tag rewards, welcome, goodbye and boost messages, auto roles, booster roles, VoiceMaster temporary voice channels, an autoresponder, automatic reactions, snipe, emoji and sticker tools, info commands, and a per-server bot profile.
 - The Bot only runs in servers we have approved. It leaves any other server it is added to.
-- Server admins are responsible for how the Bot is configured and used in their server, including the permissions they give it and the channels it can access. This includes the roles it gives or removes, the messages it posts, and the messages it deletes when an autoresponder is set to do so.
+- Server admins are responsible for how the Bot is configured and used in their server, including the permissions they give it and the channels it can access. This includes the roles it gives or removes, the messages it posts, the messages it deletes when an autoresponder is set to do so, and whether snipe is turned on and who can use it.
 - Server tag rewards, auto roles, and booster features are set by each server, and we do not promise any member a role or reward. Boosting is a Discord feature, and no boost payment goes to us.
 - You are responsible for the content you submit through the Bot and for your own conduct.
 - We may change, add, or remove features at any time.
@@ -27,7 +27,9 @@ You agree not to:
 
 - Use the Bot to harass, threaten, spam, or harm others, or to post unlawful, hateful, or infringing content
 - Use webhooks, triggers, or welcome messages for mass pings or to impersonate people or organizations
-- Use auto roles, rewards, or triggers to get around a server's rules or permissions
+- Use auto roles, rewards, triggers, buttons, or menus to get around a server's rules or permissions
+- Use snipe to expose, shame, or harass people over messages they deleted or edited
+- Use booster role names, colors, or icons, or `/components`, to impersonate staff or other people
 - Attempt to exploit, overload, disrupt, or gain unauthorized access to the Bot, its hosting, or its data
 - Abuse commands to bypass rate limits, cooldowns, or restrictions
 - Use automation, self-bots, or scripts to interact with the Bot in ways it was not designed for
